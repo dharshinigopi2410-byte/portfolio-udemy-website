@@ -3,7 +3,7 @@
 A pixel-perfect, fully responsive clone of the **Udemy Course Card** component. This project focuses on clean semantic HTML structure and modern CSS styling techniques to recreate the exact look and feel of the Udemy marketplace cards.
 
 ## 🚀 Live Demo
-[Insert your GitHub Pages or Vercel link here]
+[git clone https://github.com]
 
 ## ✨ Features
 * **Semantic HTML5:** Structured using meaningful tags for accessibility.
@@ -22,4 +22,3 @@ A pixel-perfect, fully responsive clone of the **Udemy Course Card** component. 
    ```bash
    git clone https://github.com
    ```
-2. Open `` in your browser to view the project.
